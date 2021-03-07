@@ -8,9 +8,6 @@ export default function Header(props) {
                     <h1>Shopping Cart</h1>
                 </a>
             </div>
-            <div>
-                <a herf="#/signin">Hello, Sign in</a>       
-            </div>
         </header>
     );
 }
